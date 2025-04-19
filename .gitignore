@@ -1,4 +1,2 @@
 personal.env
-git rm --cached .env  # Remove it from git tracking
-git commit -m "Remove .env from git"
-git push
+
