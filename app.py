@@ -6,9 +6,9 @@ from email.message import EmailMessage
 import smtplib
 
 # --- CONFIG ---
-RECRUITER_EMAIL = "lionelmazze@gmail.com"  # <-- CHANGE THIS
-SENDER_EMAIL = "pargainlokesh5@gmail.com"
-SENDER_PASSWORD = "gemini.ai@123"
+RECRUITER_EMAIL = "recruitersmail@gmail.com"  # <-- CHANGE THIS
+SENDER_EMAIL = "senders5@gmail.com"
+SENDER_PASSWORD = "senders.passwords"
 
 # --- DB SETUP ---
 conn = sqlite3.connect('candidates.db', check_same_thread=False)
