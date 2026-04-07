@@ -1,7 +1,7 @@
 # 🤖 AI-Driven Smart Recruitment System
 
 An intelligent recruitment automation platform that evaluates candidates using resume analysis, aptitude scores, and coding assessments. The system classifies candidates into tiers and automatically notifies recruiters, significantly reducing manual screening effort.
-
+U can check out my  website on https://smartrecruitment-hbi5ufyhh2buaxdluuwjze.streamlit.app/
 ---
 
 ## 📌 Overview
